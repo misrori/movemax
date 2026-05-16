@@ -85,7 +85,7 @@ function Hero() {
             Trusted by 2,000+ happy movers
           </span>
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold tracking-tight leading-[1.05]">
-            Moving made <span className="text-primary">easy</span>
+            Moving made <span className="text-primary">easy</span> and fun.
           </h1>
           <p className="mt-6 text-lg sm:text-xl text-muted-foreground max-w-xl whitespace-pre-line">
             Stress-free to your new home from me{"\n"}. Professional movers, transparent
