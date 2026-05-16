@@ -87,9 +87,9 @@ function Hero() {
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold tracking-tight leading-[1.05]">
             Moving made <span className="text-primary">easy</span>
           </h1>
-          <p className="mt-6 text-lg sm:text-xl text-muted-foreground max-w-xl">
-            Stress-free to your new home. Professional movers, transparent pricing, and care
-            for every box.
+          <p className="mt-6 text-lg sm:text-xl text-muted-foreground max-w-xl whitespace-pre-line">
+            Stress-free to your new home from me{"\n"}. Professional movers, transparent
+            pricing, and care for every box.
           </p>
           <div className="mt-10 flex flex-wrap gap-4">
             <button
